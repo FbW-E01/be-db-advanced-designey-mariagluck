@@ -15,7 +15,37 @@
     - Reference: https://cdn-images-1.medium.com/max/1600/1*TYRSuON0vVxy8olllrBVEw.png
     
     
+    TWITTER DATABASE
+    ----------------
+
+    users
+    followers
+    tweets
+    hashtags
+    tweet-replies
+    re-tweet
+    tweet-mentions
     
+    **user actions**
+    sign_in/ sign out
+    login/log out
+    post tweet
+    reply tweet
+    re-tweet
+    mention
+    follow /unfollow
+    create hashtag
+    delete tweet
+
+
+
+
+    Twitter SCHEMA
+    --------------
+
+    ![alt text](images/myTwitterSchema.png)
+   
+
     
     
     
