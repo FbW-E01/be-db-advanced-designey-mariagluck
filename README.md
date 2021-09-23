@@ -43,10 +43,10 @@
     Twitter SCHEMA
     --------------
 
-    ![twitterSchema](myTwitterSchema.drawio.png)
+    ![twitterSchema](schema_image/myTwitterSchema.drawio.png)
     
 
-   <img  src=“myTwitterSchema.drawio.png” width=“964”/>
+   <img  src=“schema_image/myTwitterSchema.drawio.png” width=“964”/>
 
 
     
