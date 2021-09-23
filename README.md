@@ -46,7 +46,7 @@
     ![twitterSchema](images/myTwitterSchema.drawio.png)
     
     
-   <img src=“images/myTwitterSchema.drawio.png”/>
+   <img src=“./images/myTwitterSchema.drawio.png”/>
 
 
     
