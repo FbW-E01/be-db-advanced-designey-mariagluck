@@ -46,7 +46,13 @@
     ![twitterSchema](images/myTwitterSchema.drawio.png)
     
     
-   
+   <img
+src=“images/myTwitterSchema.drawio.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
+
 
     
     
