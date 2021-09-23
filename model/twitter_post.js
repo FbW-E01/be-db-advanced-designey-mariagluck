@@ -2,7 +2,7 @@ import mongoose from 'mongoose';
 
 const tweetPostSchema = new mongoose.Schema({
     author: String,
-    user_id: Number,
+    user_id: mongoose_Types_ObjectId,
     username: String,
     tweet_text: String,
     hashtag: String,
