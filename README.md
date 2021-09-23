@@ -43,11 +43,9 @@
     Twitter SCHEMA
     --------------
 
-     ![image](./images/myTwitterSchema.drawio.png)
+    ![twitterSchema](images/myTwitterSchema.drawio.png)
     
-
-
-
+    
    
 
     
