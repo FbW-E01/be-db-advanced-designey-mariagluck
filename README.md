@@ -43,7 +43,7 @@
     Twitter SCHEMA
     --------------
 
-    ![Alt text](/images/myTwitterSchema.drawio.png?raw=true "twitterSchema")
+    ![Alt text](./images/myTwitterSchema.drawio.png)
    
 
     
