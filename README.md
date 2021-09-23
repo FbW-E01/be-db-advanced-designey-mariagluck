@@ -43,7 +43,7 @@
     Twitter SCHEMA
     --------------
 
-    ![alt text](images/myTwitterSchema.png)
+    ![twitterSchema](./images/myTwitterSchema.png)
    
 
     
